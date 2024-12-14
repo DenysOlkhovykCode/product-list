@@ -1,8 +1,4 @@
-#
-
-https://github.com/user-attachments/assets/5e2003c3-cdd1-41db-9a8b-cec116a115ab
-
- Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
